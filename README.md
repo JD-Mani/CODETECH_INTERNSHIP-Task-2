@@ -7,7 +7,7 @@
 ## Overview of the project
 
 ### Weather App
-In this task  I am gonna showing to you how to code a weather app with javascript. in this task also we use a weather api and we get data from api.
+I am gonna showing to you how to work with recipe api in javascript. we create a responsive recipe guide app
 
 ### Technologies Used
 1. HTML for markup
